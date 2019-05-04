@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <email>12345@12345.ru</email>
+    <password>12345</password>
+    <phone>989890</phone>
+    <name>12345</name>
+    <surname>12345</surname>
+    <gender>Male</gender>
+    <birthdate>01.01.1990</birthdate>
+    <citizenship>РФ</citizenship>
+    <passport>
+      <passportNo>9089998</passportNo>
+      <validityDate>20.05.2017</validityDate>
+    </passport>
+    <tickets>
+      <ticket>
+        <departureCity>Москва</departureCity>
+        <arrivalCity>Самара</arrivalCity>
+        <departureTime>13.05.2017 8:30:00</departureTime>
+        <arrivalTime>13.05.2017 8:30:00</arrivalTime>
+        <seatType>Эконом</seatType>
+        <price>7500</price>
+      </ticket>
+      <ticket>
+        <departureCity>Самара</departureCity>
+        <arrivalCity>Москва</arrivalCity>
+        <departureTime>13.05.2017 6:30:00</departureTime>
+        <arrivalTime>13.05.2017 6:30:00</arrivalTime>
+        <seatType>Эконом</seatType>
+        <price>7500</price>
+      </ticket>
+      <ticket>
+        <departureCity>Москва</departureCity>
+        <arrivalCity>Хабаровск</arrivalCity>
+        <departureTime>16.05.2017 6:30:00</departureTime>
+        <arrivalTime>16.05.2017 17:30:00</arrivalTime>
+        <seatType>Эконом класс</seatType>
+        <price>17000</price>
+      </ticket>
+      <ticket>
+        <departureCity>Хабаровск</departureCity>
+        <arrivalCity>Москва</arrivalCity>
+        <departureTime>16.05.2017 10:30:00</departureTime>
+        <arrivalTime>16.05.2017 18:30:00</arrivalTime>
+        <seatType>Эконом класс</seatType>
+        <price>16000</price>
+      </ticket>
+    </tickets>
+  </user>
+  <user>
+    <email>54321@54321.ru</email>
+    <password>54321</password>
+    <phone>83453453455</phone>
+    <name>Кирилл</name>
+    <surname>Зенин</surname>
+    <gender>Male</gender>
+    <birthdate>15.07.1999</birthdate>
+    <citizenship>РФ</citizenship>
+    <passport>
+      <passportNo>43534534534534543</passportNo>
+      <validityDate>26.05.2017</validityDate>
+    </passport>
+    <tickets>
+      <ticket>
+        <departureCity>Москва</departureCity>
+        <arrivalCity>Хабаровск</arrivalCity>
+        <departureTime>16.05.2017 7:30:00</departureTime>
+        <arrivalTime>16.05.2017 15:30:00</arrivalTime>
+        <seatType>Эконом класс</seatType>
+        <price>14000</price>
+      </ticket>
+      <ticket>
+        <departureCity>Хабаровск</departureCity>
+        <arrivalCity>Москва</arrivalCity>
+        <departureTime>16.05.2017 10:30:00</departureTime>
+        <arrivalTime>16.05.2017 18:30:00</arrivalTime>
+        <seatType>Эконом класс</seatType>
+        <price>16000</price>
+      </ticket>
+    </tickets>
+  </user>
+  <user>
+    <email>kerill.net@gmail.com</email>
+    <password>12345</password>
+    <phone>+78767575567</phone>
+    <name>Кирилл</name>
+    <surname>Андреевич</surname>
+    <gender>Male</gender>
+    <birthdate>01.01.1990</birthdate>
+    <citizenship>РФ</citizenship>
+    <passport>
+      <passportNo>678009300</passportNo>
+      <validityDate>18.05.2019</validityDate>
+    </passport>
+    <tickets>
+      <ticket>
+        <departureCity>Москва</departureCity>
+        <arrivalCity>Самара</arrivalCity>
+        <departureTime>02.05.2019 13:30:00</departureTime>
+        <arrivalTime>02.05.2019 15:30:00</arrivalTime>
+        <seatType>Эконом класс</seatType>
+        <price>7500</price>
+      </ticket>
+      <ticket>
+        <departureCity>Самара</departureCity>
+        <arrivalCity>Москва</arrivalCity>
+        <departureTime>03.05.2019 6:30:00</departureTime>
+        <arrivalTime>02.05.2019 8:30:00</arrivalTime>
+        <seatType>Эконом класс</seatType>
+        <price>7500</price>
+      </ticket>
+    </tickets>
+  </user>
+</users>

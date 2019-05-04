@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<flights>
+  
+  <flight>
+    <code>SU-1125</code>
+    <company>Aeroflot</company>
+    <departureCity>Москва</departureCity>
+    <arrivalCity>Новосибирск</arrivalCity>
+    <charter>false</charter>
+    <schedule>EVERY_DAY</schedule>
+    <departureTime>06:30:00</departureTime>
+    <arrivalTime>10:30:00</arrivalTime>
+    <economyPrice>7500</economyPrice>
+    <businessPrice>18000</businessPrice>         
+  </flight>
+  
+  <flight>
+    <code>SU-1017</code>
+    <company>Aurora</company>
+    <departureCity>Новосибирск</departureCity>
+    <arrivalCity>Хабаровск</arrivalCity>
+    <charter>false</charter>
+    <schedule>EVERY_DAY</schedule>
+    <departureTime>12:30:00</departureTime>
+    <arrivalTime>17:30:00</arrivalTime>
+    <economyPrice>9500</economyPrice>
+    <businessPrice>22000</businessPrice>         
+  </flight>
+  
+   <flight>
+    <code>RU-4534</code>
+    <company>Rossiya</company>
+    <departureCity>Москва</departureCity>
+    <arrivalCity>Хабаровск</arrivalCity>
+    <charter>false</charter>
+    <schedule>EVERY_DAY</schedule>
+    <departureTime>07:30:00</departureTime>
+    <arrivalTime>15:30:00</arrivalTime>
+    <economyPrice>14000</economyPrice>
+    <businessPrice>28000</businessPrice>         
+  </flight>
+
+  <flight>
+    <code>RU-4535</code>
+    <company>Rossiya</company>
+    <departureCity>Хабаровск</departureCity>
+    <arrivalCity>Москва</arrivalCity>
+    <charter>false</charter>
+    <schedule>EVERY_DAY</schedule>
+    <departureTime>10:30:00</departureTime>
+    <arrivalTime>18:30:00</arrivalTime>
+    <economyPrice>16000</economyPrice>
+    <businessPrice>36000</businessPrice>         
+  </flight>
+
+  <flight>
+    <code>S7-526</code>
+    <company>S7</company>
+    <departureCity>Самара</departureCity>
+    <arrivalCity>Хабаровск</arrivalCity>
+    <charter>false</charter>
+    <schedule>EVERY_DAY</schedule>
+    <departureTime>13:30:00</departureTime>
+    <arrivalTime>21:30:00</arrivalTime>
+    <economyPrice>7500</economyPrice>
+    <businessPrice>18000</businessPrice>         
+  </flight>
+  
+  <flight>
+    <code>S7-126</code>
+    <company>S7</company>
+    <departureCity>Москва</departureCity>
+    <arrivalCity>Самара</arrivalCity>
+    <charter>false</charter>
+    <schedule>EVERY_DAY</schedule>
+    <departureTime>06:30:00</departureTime>
+    <arrivalTime>08:30:00</arrivalTime>
+    <economyPrice>7500</economyPrice>
+    <businessPrice>18000</businessPrice>         
+  </flight>
+
+  <flight>
+    <code>S7-127</code>
+    <company>S7</company>
+    <departureCity>Москва</departureCity>
+    <arrivalCity>Самара</arrivalCity>
+    <charter>false</charter>
+    <schedule>EVERY_DAY</schedule>
+    <departureTime>11:30:00</departureTime>
+    <arrivalTime>13:30:00</arrivalTime>
+    <economyPrice>7500</economyPrice>
+    <businessPrice>18000</businessPrice>         
+  </flight>
+
+  <flight>
+    <code>S7-128</code>
+    <company>S7</company>
+    <departureCity>Москва</departureCity>
+    <arrivalCity>Самара</arrivalCity>
+    <charter>false</charter>
+    <schedule>EVERY_DAY</schedule>
+    <departureTime>08:30:00</departureTime>
+    <arrivalTime>10:30:00</arrivalTime>
+    <economyPrice>7500</economyPrice>
+    <businessPrice>18000</businessPrice>         
+  </flight>
+
+  <flight>
+    <code>S7-129</code>
+    <company>S7</company>
+    <departureCity>Москва</departureCity>
+    <arrivalCity>Самара</arrivalCity>
+    <charter>false</charter>
+    <schedule>EVERY_DAY</schedule>
+    <departureTime>13:30:00</departureTime>
+    <arrivalTime>15:30:00</arrivalTime>
+    <economyPrice>7500</economyPrice>
+    <businessPrice>18000</businessPrice>         
+  </flight>
+
+  <flight>
+    <code>S7-130</code>
+    <company>S7</company>
+    <departureCity>Самара</departureCity>
+    <arrivalCity>Москва</arrivalCity>
+    <charter>false</charter>
+    <schedule>EVERY_DAY</schedule>
+    <departureTime>06:30:00</departureTime>
+    <arrivalTime>08:30:00</arrivalTime>
+    <economyPrice>7500</economyPrice>
+    <businessPrice>18000</businessPrice>         
+  </flight>
+  
+</flights>
